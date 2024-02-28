@@ -52,7 +52,7 @@
     "fuse.js": "^6.4.6",
     "headroom.js": "^0.12.0",
     "jquery": "^3.6.0",
-    "medium-zoom": "^1.0.6",
+    "medium-zoom": "^1.1.0",
     "shave": "^2.5.10",
     "tippy.js": "^5.2.1"
   },
