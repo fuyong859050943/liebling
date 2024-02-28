@@ -46,7 +46,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "@glidejs/glide": "^3.4.1",
+    "@glidejs/glide": "^3.6.0",
     "aos": "2.3.4",
     "fitvids": "^2.0.0",
     "fuse.js": "^6.4.6",
